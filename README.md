@@ -15,10 +15,10 @@ Generate fun, randomized emoji status messages for your favorite messaging platf
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/emoji-status-generator
+git clone https://github.com/makalin/Random-Emoji-Status-Generator.git
 
 # Navigate to the project directory
-cd emoji-status-generator
+cd Random-Emoji-Status-Generator
 
 # Install dependencies
 npm install
